@@ -1,3 +1,22 @@
 html, body {
-  font-family: Georgia;
+  background-color: black;
+  font-family: Verdana;
+  text-align: center;
+}
+
+h3 {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+video {
+  position: center;
+}
+
+.header {
+  font-family: Verdana;
+  font-size: 50px;
+  font-weight: normal;
+  text-align: center;
+  color: white;
 }
