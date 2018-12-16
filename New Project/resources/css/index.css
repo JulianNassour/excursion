@@ -1,0 +1,20 @@
+html, body {
+  font-family: Georgia;
+}
+
+h1 {
+  color: SeaGreen;
+}
+
+h2 {
+  color: SeaGreen;
+}
+
+h3 {
+  font-size: 22px;
+  color: red;
+}
+
+p {
+  font-size: 18px;
+}
